@@ -22,7 +22,7 @@ export function SiteFooter() {
         <div className="grid gap-12 md:grid-cols-[1.4fr_repeat(3,1fr)]">
           <div>
             <div className="flex items-center gap-2.5">
-              <img src={logoMain} alt="FLORIX" className="h-9 w-9 rounded-full object-cover" />
+              <img src={logoMain} alt="FLORIX" className="h-12 w-13 rounded-full object-cover" />
               <div>
                 <div className="font-mono text-xs uppercase tracking-[0.2em] text-muted-foreground text-neon">
                   FLORIX

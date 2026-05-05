@@ -14,7 +14,7 @@ export function SiteHeader() {
     <header className="sticky top-0 z-50 border-b border-border/60 bg-background/70 backdrop-blur-xl">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
         <Link to="/" className="flex items-center gap-2.5">
-          <img src={logoMain} alt="FLORIX" className="h-9 w-9 rounded-full object-cover" />
+          <img src={logoMain} alt="FLORIX" className="h-12 w-13 rounded-full object-cover" />
           <div className="leading-tight">
             <div className="font-mono text-xs uppercase tracking-[0.2em] text-muted-foreground text-neon">
               FLORIX
